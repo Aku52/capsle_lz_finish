@@ -1,0 +1,13 @@
+id,user_name,funs_name,formatted_date,formatted_time
+0,oysh81,load_dataframe,02 04 2025,17:39:18
+1,oysh81,show_statistics,02 04 2025,17:39:18
+2,oysh81,plot_histogram,02 04 2025,17:39:21
+3,oysh81,load_dataframe,02 04 2025,17:39:35
+4,oysh81,show_statistics,02 04 2025,17:39:35
+5,oysh81,plot_histogram,02 04 2025,17:39:44
+6,oysh81,load_dataframe,02 04 2025,17:42:23
+7,oysh81,show_statistics,02 04 2025,17:42:23
+8,oysh81,plot_histogram,02 04 2025,17:42:27
+9,oysh81,load_dataframe,02 04 2025,17:43:05
+10,oysh81,show_statistics,02 04 2025,17:43:05
+11,oysh81,plot_histogram,02 04 2025,17:43:07

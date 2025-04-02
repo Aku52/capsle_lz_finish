@@ -11,3 +11,12 @@ id,user_name,funs_name,formatted_date,formatted_time
 9,oysh81,load_dataframe,02 04 2025,17:43:05
 10,oysh81,show_statistics,02 04 2025,17:43:05
 11,oysh81,plot_histogram,02 04 2025,17:43:07
+12,alilu,load_dataframe,02 04 2025,19:33:04
+13,alilu,show_statistics,02 04 2025,19:33:04
+14,alilu,plot_histogram,02 04 2025,19:33:09
+15,alilu,load_dataframe,02 04 2025,19:36:50
+16,alilu,show_statistics,02 04 2025,19:36:50
+17,alilu,plot_histogram,02 04 2025,19:37:09
+18,alilu,load_dataframe,02 04 2025,19:37:40
+19,alilu,show_statistics,02 04 2025,19:37:40
+20,alilu,plot_histogram,02 04 2025,19:37:43

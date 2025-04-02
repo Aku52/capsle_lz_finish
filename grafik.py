@@ -52,7 +52,7 @@ class Graphical_statistics:
     @log
     def show_statistics(self):
         if self.dataframe is not None:
-            print("Статистика по датафрейму:")
+            print("Статистика по файлу:")
             print(self.dataframe.describe())
             print("Количество значений по странам:")
             print(self.dataframe['country'].value_counts())
@@ -77,7 +77,7 @@ class Graphical_statistics:
                 plt.title('Количество игроков Steam') 
                 plt.xlabel('Страны')  
                 plt.ylabel('Количество игроков (тыс.)')  
-                plt.tight_layout()  # Для улучшения компоновки
+                plt.tight_layout()  
                 plt.show()
             else:
                 print("Столбец 'country' не найден в датафрейме!")
@@ -86,7 +86,6 @@ class Graphical_statistics:
 
 
 
-# Использование класса
 processor = Graphical_statistics()
 processor.load_dataframe()  
 processor.show_statistics()  
